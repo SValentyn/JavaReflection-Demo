@@ -3,7 +3,7 @@
  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
  
-Lab assignments: [Java Reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming)) (tasks in Russian).  
+Lab assignments: [Java Reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming)) (tasks in the project in Russian).  
 The project contains the solution of such tasks as:
   * Demonstration of class content on an object of type [Class](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html)  
   * Retrieving data about class contents by a passed object of some class  
